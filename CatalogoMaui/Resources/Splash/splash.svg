@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="456" height="456" viewBox="0 0 456 456" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <circle cx="84" cy="276" r="14" fill="#FFFFFF" />
+
+    <path d="M122,290 L122,166 L144,166 L204,258 L204,166 L224,166 L224,290 L203,290 L142,196 L142,290 Z" fill="#FFFFFF" />
+
+    <path d="M249,290 L249,166 L317,166 L317,184 L269,184 L269,218 L313,218 L313,236 L269,236 L269,272 L319,272 L319,290 Z" fill="#FFFFFF" />
+
+    <path d="M356,290 L356,184 L323,184 L323,166 L409,166 L409,184 L376,184 L376,290 Z" fill="#FFFFFF" />
+</svg>
